@@ -1,0 +1,32 @@
+
+Interview Questions & Answers - Deploy a Static Website Using GitHub Pages
+
+1. What is Git and why use it?
+Git is a version control system to track code changes and collaborate.
+
+2. How do you push code to GitHub?
+Use: git add . → git commit -m "message" → git push origin main
+
+3. What is GitHub Pages?
+A free service to host static websites directly from a GitHub repository.
+
+4. Difference between static and dynamic websites?
+Static websites don’t change unless edited manually; dynamic sites interact with backends to update content.
+
+5. How do you revert commits in Git?
+Use 'git revert' for a new undo commit or 'git reset' to move commit history.
+
+6. What is branching in Git?
+Creating separate versions (branches) of code to work on features without affecting the main codebase.
+
+7. Explain pull requests.
+A way to propose and review changes before merging code into a main branch on GitHub.
+
+8. How to resolve merge conflicts?
+Edit conflicted files manually, mark resolved, then commit the merge.
+
+9. How to host a website for free?
+Use GitHub Pages to publish static websites without any cost.
+
+10. What is continuous deployment?
+Automatically pushing changes to production after passing tests or builds.
